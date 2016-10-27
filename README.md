@@ -1,2 +1,2 @@
 # tweety.py
-Post tweets using twitter api
+Code snippet to post tweets using tweepy and twitter api
